@@ -17,7 +17,7 @@
     @csrf
     <table>
         <tr>
-            <td>Username</td>
+            <td>Email</td>
             <td><input type="text" name="email" placeholder="Email"></td>
         </tr>
         <tr>
